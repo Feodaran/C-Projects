@@ -1,0 +1,6 @@
+C:\Users\Steven\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Steven\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Steven\source\repos\TCPServer\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Steven\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Steven\source\repos\TCPServer\TCPClient\obj\Debug\TCPClient.pdb
