@@ -1,0 +1,10 @@
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.exe.config
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.exe
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.pdb
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.Form1.resources
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.Properties.Resources.resources
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csproj.GenerateResource.cache
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.exe
+C:\Users\Steven\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.pdb
